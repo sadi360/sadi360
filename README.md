@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 📫 Reach me at Sadi.stu2019@juniv.edu 
 -   facebook-https://www.facebook.com/sadi.mohammod.7
--   Linkedin-https://www.facebook.com/sadi.mohammod.7
+-   Linkedin-www.linkedin.com/in/sadimohammod
 
 <!---
 sadi360/sadi360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
