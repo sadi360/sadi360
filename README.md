@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning python
 - 📫 Reach me at Sadi.stu2019@juniv.edu 
--   facebook-ifhttps://www.facebook.com/sadi.mohammod.7
+-   facebook-https://www.facebook.com/sadi.mohammod.7
 -   Linkedin-https://www.facebook.com/sadi.mohammod.7
 
 <!---
