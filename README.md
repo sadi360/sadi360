@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @sadi360
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning python
-- 📫 Reach me at Sadi.stu2019@juniv.edu or at https://www.facebook.com/sadi.mohammod.7
+- 📫 Reach me at Sadi.stu2019@juniv.edu 
+-   facebook-ifhttps://www.facebook.com/sadi.mohammod.7
+-   Linkedin-https://www.facebook.com/sadi.mohammod.7
 
 <!---
 sadi360/sadi360 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
